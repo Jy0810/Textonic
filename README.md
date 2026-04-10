@@ -24,7 +24,7 @@ It contains climate-related prompts designed to analyze hallucination behavior i
 ## Methodology
 1. Clone the Repository
 
-git clone https://github.com/Jy0810/TexTonic_INLP.git
+git clone https://github.com/Jy0810/TexTonic.git
 
 cd TexTonic_INLP/INLP_Project
 
